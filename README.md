@@ -105,10 +105,8 @@ manageengine, enterprise monitoring, cybersecurity, SIEM, network monitoring, en
 If you need assistance regarding:
 - Setup
 - Configuration
-- Deployment
-- GitHub Pages
+- GitHub Page 
 - Enterprise monitoring concepts
-- Documentation issues
 
 Feel free to reach out on Telegram.
 
