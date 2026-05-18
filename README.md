@@ -132,17 +132,6 @@ inside your message for faster attention.
 - Be respectful and concise.
 - Spam or unrelated messages may be ignored.
 
----
-
-# 🤝 Support & Collaboration
-
-Open to:
-- Repository improvements
-- Documentation contributions
-- UI enhancements
-- GitHub Pages optimization
-- Enterprise dashboard ideas
-
 Looking forward to assisting you.
 
 ---
